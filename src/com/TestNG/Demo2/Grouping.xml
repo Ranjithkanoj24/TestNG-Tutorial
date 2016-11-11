@@ -1,0 +1,13 @@
+
+<suite name="sample suite">
+  <test name="sample test">
+    <groups>
+    <run>
+      <include name="Monkey Testing"/>
+    </run>
+    </groups>
+    <classes>
+      <class name = "com.TestNG.Demo2.Grouping"/>
+    </classes>
+  </test>
+</suite>

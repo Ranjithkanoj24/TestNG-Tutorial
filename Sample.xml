@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="sample ba">
+  <test name="sample test va">
+    <classes>
+      <class name="com.TestNG.Demo2.BFMethod2"/>
+      <class name="com.TestNG.Demo2.BFMethod"/>
+    </classes>
+  </test>
+</suite>
